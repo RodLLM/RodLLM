@@ -1,11 +1,11 @@
- ## Bem-vindo(a) ao perfil do Rod! 👋
+## Bem-vindo(a) ao perfil do Rod! 👋
  <div>
-	<a href="https://github.com/RODLLM">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RODLLM&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RODLLM&layout=compact&langs_count=6&theme=aura"/>
+	<a href="https://github.com/rodllm">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodllm&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodllm&layout=compact&langs_count=6&theme=aura"/>
 </div>
 
- ### Pilha de Tecnologia 📚
+### Pilha de Tecnologia 📚
 <div style="display: inline_block">
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +13,7 @@
 </div>
 <br>
 
- ### Minhas redes!
+### Minhas redes!
 <div> 
 	<a href="mailto:rodolfo.morais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/rodolfo-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,5 +24,5 @@
 <br>
 
 <p>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodLLM%2Fhit-counter&count_bg=%23374E68&title_bg=%2312222E&icon=github.svg&icon_color=%2301DEA2&title=hits&edge_flat=false"/></a>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frodllm%2Fhit-counter&count_bg=%23374E68&title_bg=%2312222E&icon=github.svg&icon_color=%2301DEA2&title=hits&edge_flat=false"/></a>
 </p>
