@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Rod! 👋
 
 ### Sobre mim 👓
-Um desenvolvedor Frontend em formação e entusiasmado com novidades em tecnologia.
+#### Um desenvolvedor Frontend em formação e entusiasmado com novidades em tecnologia.
 <div>
 	<a href="https://github.com/rodllm">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodllm&theme=transparent&bg_color=030c18&border_color=78ffee&show_icons=true&icon_color=2182f5&title_color=f2f50c&text_color=78ffee&include_all_commits=true&count_private=true">
